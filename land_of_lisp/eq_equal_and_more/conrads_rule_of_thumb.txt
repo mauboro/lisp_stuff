@@ -1,2 +1,0 @@
-use eq to compare symbols.
-use equal to compara everything else.
